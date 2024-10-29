@@ -33,7 +33,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. Clone este repositório:
 
     ```bash
-    git clone (https://github.com/matheus-cmyk/AppHamburguer)
+    git clone (https://github.com/matheus-cmyk/App-Sport-)
 
     ```
 
