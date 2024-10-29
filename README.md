@@ -44,55 +44,29 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 ```bash
 ├── app
-
-
 │   ├── src
-
-
 │   │   ├── main
-
-
 │   │   │   ├──
-
-
-
 │   │   │  
 │   ├── MainActivity.java      
-
-
-
 │   │   │   ├──
 res
-
-
 │   │   │  
 │   ├── layout
-
-
 │   │   │  
 │   │   ├── activity_main.xml   #
 Layout da tela principal
-
-
 │   │   │  
 │   └── values
-
-
 │   │   │  
-│       ├──
-strings.xml         # Strings usadas no
+│       ├──strings.xml         # Strings usadas no
 app
-
-
 │   │   │  
 │       ├── colors.xml          # Cores definidas no projeto
-
-
 │   └── build.gradle                        # Configuração do
 Gradle
-
-
 └── README.md                               # Este arquivo
+
 
  
 ## 🎨 Design e Prototipagem
